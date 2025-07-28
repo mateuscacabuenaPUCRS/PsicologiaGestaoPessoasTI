@@ -3,4 +3,4 @@
 -  Professor: Renata Tomasi
 -  Código: 13397-02
 -  Semestre: 2025/1
--  Nota: cursando
+-  Nota: 9.6
